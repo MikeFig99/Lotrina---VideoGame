@@ -1,0 +1,1490 @@
+D:\Lotrina Longicaudis\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Lotrina Longicaudis\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Cinemachine.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\com.unity.cinemachine.editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Microsoft.Win32.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\mscorlib.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\netstandard.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\PsdPlugin.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.AppContext.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Buffers.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Concurrent.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Collections.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Collections.NonGeneric.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Specialized.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Composition.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.EventBasedAsync.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.TypeConverter.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Console.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Core.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Data.Common.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Data.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Contracts.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Debug.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.FileVersionInfo.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Process.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.StackTrace.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TextWriterTraceListener.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tools.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TraceSource.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tracing.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Dynamic.Runtime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Calendars.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Extensions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.FileSystem.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.ZipFile.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.DriveInfo.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Watcher.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.IsolatedStorage.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.MemoryMappedFiles.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.Pipes.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.IO.UnmanagedMemoryStream.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Linq.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Expressions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Parallel.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Queryable.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Memory.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.Http.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.NameResolution.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.NetworkInformation.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.Ping.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.Requests.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.Security.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.Sockets.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebHeaderCollection.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.Client.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.Vectors.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ObjectModel.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.DispatchProxy.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.ILGeneration.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.Lightweight.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Extensions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Reader.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Resources.ResourceManager.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Writer.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.CompilerServices.VisualC.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Extensions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Handles.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Numerics.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Formatters.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Json.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Xml.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.Claims.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Algorithms.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Csp.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Encoding.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Primitives.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.X509Certificates.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.Principal.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Security.SecureString.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ServiceModel.Web.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.Extensions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Text.RegularExpressions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Overlapped.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Extensions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Parallel.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Thread.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.ThreadPool.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Timer.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Transactions.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.ValueTuple.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Web.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Windows.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Linq.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.ReaderWriter.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Serialization.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XDocument.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlDocument.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlSerializer.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.XDocument.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Animation.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Animation.Runtime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Aseprite.Common.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Aseprite.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Common.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Common.Path.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Common.Runtime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.IK.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.IK.Runtime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.PixelPerfect.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.PixelPerfect.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Psdimporter.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Sprite.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.SpriteShape.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.SpriteShape.Runtime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Profiler.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Extension.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Google.Extension.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.VRR.Extension.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.UI.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Android.Gradle.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Android.GradleProject.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Android.Types.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.LowLevel.ILSupport.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.InternalAPIEditorBridge.001.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.InternalAPIEditorBridge.005.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.InternalAPIEngineBridge.001.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Mobile.AndroidLogcat.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Android.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.iOS.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Unified.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Profiling.Core.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Antlr3.Runtime.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VSCode.Editor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.EditorToolbarModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneViewModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ContentLoadModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PropertiesModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsCommonModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Cecil.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\NiceIO.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.dll
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ContentLoadModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PropertiesModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsCommonModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.EditorToolbarModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneViewModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.IK.Runtime.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\com.unity.cinemachine.editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Common.Path.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Extension.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.PixelPerfect.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Aseprite.Common.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Sprite.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.SpriteShape.Runtime.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.PixelPerfect.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Aseprite.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VSCode.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Unified.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Profiling.Core.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\PsdPlugin.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Google.Extension.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.VRR.Extension.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.iOS.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Animation.Runtime.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Profiler.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.UI.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.InternalAPIEditorBridge.005.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.InternalAPIEngineBridge.001.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Common.Runtime.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.InternalAPIEditorBridge.001.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Psdimporter.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Mobile.AndroidLogcat.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Common.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Cinemachine.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Android.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Animation.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.SpriteShape.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.IK.Editor.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.xml
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.pdb
+D:\Lotrina Longicaudis\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.pdb
+D:\Lotrina Longicaudis\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Lotrina Longicaudis\obj\Debug\Assembly-CSharp.dll
+D:\Lotrina Longicaudis\obj\Debug\Assembly-CSharp.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.SkyboxCubemapExtended.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Scripts.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Cinemachine.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\com.unity.cinemachine.editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Microsoft.Win32.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Mono.Cecil.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\mscorlib.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\netstandard.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\nunit.framework.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.AppContext.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Buffers.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Concurrent.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Collections.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Collections.NonGeneric.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Specialized.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Composition.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.TypeConverter.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Console.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Data.Common.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Data.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Contracts.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Debug.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Process.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.StackTrace.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tools.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TraceSource.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tracing.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Dynamic.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Calendars.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.FileSystem.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.ZipFile.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Watcher.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.IsolatedStorage.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.MemoryMappedFiles.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.Pipes.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Linq.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Expressions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Parallel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Queryable.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Memory.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.Http.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.NameResolution.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.NetworkInformation.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.Ping.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.Requests.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.Security.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.Sockets.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebHeaderCollection.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.Client.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.Vectors.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ObjectModel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.DispatchProxy.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.ILGeneration.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.Lightweight.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Reader.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Resources.ResourceManager.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Writer.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Handles.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Numerics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Formatters.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Json.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Xml.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.Claims.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Algorithms.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Csp.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Encoding.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.Principal.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Security.SecureString.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ServiceModel.Web.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Text.RegularExpressions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Overlapped.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Parallel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Thread.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.ThreadPool.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Timer.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Transactions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.ValueTuple.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Web.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Windows.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Linq.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.ReaderWriter.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Serialization.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XDocument.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlDocument.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlSerializer.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.XDocument.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Sprite.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Profiler.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Extension.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Google.Extension.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.VRR.Extension.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.UI.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Android.Gradle.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Android.Types.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Mobile.AndroidLogcat.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.iOS.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Unified.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Profiling.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.Shared.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ResourceManager.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Searcher.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Antlr3.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AccessibilityModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AdaptivePerformanceModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.EditorToolbarModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphToolsFoundationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridAndSnapModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.Physics2DModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PhysicsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PropertiesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SafeModeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneViewModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.ShaderFoundryModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SketchUpModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteMaskModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteShapeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TerrainModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextRenderingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TilemapModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TreeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIAutomationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VFXModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VideoModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XRModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CommandStateObserverModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ContentLoadModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GraphToolsFoundationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HierarchyCoreModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputForUIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MarshallingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MultiplayerModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PropertiesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Cecil.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\NiceIO.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Utilities.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.SkyboxCubemapExtended.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Scripts.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CommandStateObserverModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ContentLoadModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GraphToolsFoundationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HierarchyCoreModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputForUIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MarshallingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MultiplayerModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PropertiesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsCommonModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AccessibilityModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AdaptivePerformanceModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.EditorToolbarModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphToolsFoundationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridAndSnapModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.Physics2DModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PhysicsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PropertiesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SafeModeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneViewModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.ShaderFoundryModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SketchUpModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteMaskModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteShapeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TerrainModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextRenderingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TilemapModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TreeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIAutomationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VFXModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VideoModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XRModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\com.unity.cinemachine.editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Searcher.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Config.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ResourceManager.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Unified.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.Shared.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.Shared.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.ShaderLibrary.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Extension.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Profiler.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Mobile.AndroidLogcat.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Profiling.Core.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Google.Extension.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Cinemachine.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.UI.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Sprite.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.VRR.Extension.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.iOS.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Utilities.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\obj\Debug\Assembly-CSharp.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoMarzo16\JuegoMarzo02\obj\Debug\Assembly-CSharp.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.SkyboxCubemapExtended.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Scripts.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Cinemachine.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\com.unity.cinemachine.editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Microsoft.Win32.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Mono.Cecil.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\mscorlib.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\netstandard.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\nunit.framework.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.AppContext.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Buffers.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Concurrent.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Collections.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Collections.NonGeneric.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Specialized.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Composition.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.TypeConverter.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Console.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Data.Common.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Data.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Contracts.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Debug.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Process.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.StackTrace.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tools.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TraceSource.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tracing.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Dynamic.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Calendars.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.FileSystem.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.ZipFile.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Watcher.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.IsolatedStorage.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.MemoryMappedFiles.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.Pipes.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Linq.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Expressions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Parallel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Queryable.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Memory.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.Http.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.NameResolution.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.NetworkInformation.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.Ping.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.Requests.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.Security.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.Sockets.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebHeaderCollection.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.Client.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.Vectors.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ObjectModel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.DispatchProxy.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.ILGeneration.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.Lightweight.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Reader.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Resources.ResourceManager.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Writer.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Handles.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Numerics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Formatters.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Json.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Xml.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.Claims.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Algorithms.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Csp.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Encoding.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Primitives.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.Principal.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Security.SecureString.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ServiceModel.Web.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Text.RegularExpressions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Overlapped.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Extensions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Parallel.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Thread.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.ThreadPool.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Timer.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Transactions.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.ValueTuple.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Web.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Windows.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Linq.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.ReaderWriter.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Serialization.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XDocument.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlDocument.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlSerializer.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.XDocument.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Sprite.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Profiler.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Extension.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Google.Extension.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.VRR.Extension.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.UI.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Android.Gradle.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Android.Types.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Mobile.AndroidLogcat.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Android.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.iOS.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Unified.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Profiling.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.Shared.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ResourceManager.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Searcher.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Antlr3.Runtime.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AccessibilityModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AdaptivePerformanceModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.EditorToolbarModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphToolsFoundationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridAndSnapModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.Physics2DModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PhysicsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PropertiesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SafeModeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneViewModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.ShaderFoundryModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SketchUpModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteMaskModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteShapeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TerrainModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextRenderingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TilemapModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TreeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIAutomationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VFXModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VideoModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XRModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CommandStateObserverModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ContentLoadModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GraphToolsFoundationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HierarchyCoreModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputForUIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MarshallingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MultiplayerModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PropertiesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Cecil.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\NiceIO.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Utilities.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.SkyboxCubemapExtended.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Boxophobic.Utils.Scripts.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CommandStateObserverModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ContentLoadModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GraphToolsFoundationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HierarchyCoreModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputForUIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MarshallingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.MultiplayerModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PropertiesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsCommonModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AccessibilityModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.AdaptivePerformanceModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.EditorToolbarModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphToolsFoundationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridAndSnapModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GridModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.Physics2DModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PhysicsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PropertiesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SafeModeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneViewModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.ShaderFoundryModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SketchUpModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteMaskModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpriteShapeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TerrainModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextRenderingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TilemapModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TreeModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIAutomationModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VFXModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.VideoModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XRModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\com.unity.cinemachine.editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Searcher.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Config.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ResourceManager.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Unified.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.Shared.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TerrainTools.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.Shared.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.ShaderLibrary.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Extension.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Profiler.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Mobile.AndroidLogcat.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ScriptableBuildPipeline.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.Android.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Addressables.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Samsung.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualEffectGraph.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Collections.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Profiling.Core.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Google.Extension.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Tilemap.Extras.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Cinemachine.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.HighDefinition.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Google.Android.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.UI.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.2D.Sprite.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Burst.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.AdaptivePerformance.Simulator.VRR.Extension.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Rendering.LightTransport.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.Notifications.iOS.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.RenderPipelines.Core.Runtime.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.xml
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\Temp\Bin\Debug\Assembly-CSharp\Unity.ShaderGraph.Utilities.pdb
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\obj\Debug\Assembly-CSharp.dll
+C:\Users\MICHA\OneDrive\Escritorio\JuegoAbril05\obj\Debug\Assembly-CSharp.pdb

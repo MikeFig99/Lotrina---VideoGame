@@ -1,0 +1,5 @@
+C:/Users/MICHA/OneDrive/Escritorio/JuegoMarzo16/JuegoMarzo02/.utmp/RelWithDebInfo/412l01s4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoMarzo16/JuegoMarzo02/.utmp/RelWithDebInfo/412l01s4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoMarzo16/JuegoMarzo02/.utmp/RelWithDebInfo/412l01s4/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoMarzo16/JuegoMarzo02/.utmp/RelWithDebInfo/412l01s4/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoMarzo16/JuegoMarzo02/.utmp/RelWithDebInfo/412l01s4/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+C:/Users/MICHA/OneDrive/Escritorio/JuegoAbril05/.utmp/RelWithDebInfo/4z1q4a4j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoAbril05/.utmp/RelWithDebInfo/4z1q4a4j/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoAbril05/.utmp/RelWithDebInfo/4z1q4a4j/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoAbril05/.utmp/RelWithDebInfo/4z1q4a4j/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/MICHA/OneDrive/Escritorio/JuegoAbril05/.utmp/RelWithDebInfo/4z1q4a4j/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

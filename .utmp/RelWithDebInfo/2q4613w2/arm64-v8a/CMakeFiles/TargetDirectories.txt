@@ -1,0 +1,5 @@
+T:/tatic/DIPLOMADO/JuegoAbril04/.utmp/RelWithDebInfo/2q4613w2/arm64-v8a/CMakeFiles/edit_cache.dir
+T:/tatic/DIPLOMADO/JuegoAbril04/.utmp/RelWithDebInfo/2q4613w2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+T:/tatic/DIPLOMADO/JuegoAbril04/.utmp/RelWithDebInfo/2q4613w2/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+T:/tatic/DIPLOMADO/JuegoAbril04/.utmp/RelWithDebInfo/2q4613w2/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+T:/tatic/DIPLOMADO/JuegoAbril04/.utmp/RelWithDebInfo/2q4613w2/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

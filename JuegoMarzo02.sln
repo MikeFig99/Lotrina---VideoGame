@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Editor", "Boxophobic.Utils.Editor.csproj", "{b2a8048d-f94e-bbd8-1983-69f0e37e97e2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{83e6976a-451d-c99c-34e7-3cdfff6366fd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.SkyboxCubemapExtended.Editor", "Boxophobic.SkyboxCubemapExtended.Editor.csproj", "{6de811c0-d45c-5911-4d08-e4ba4db5d48f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Scripts", "Boxophobic.Utils.Scripts.csproj", "{f2b9748e-84c4-e6c9-558e-8d82d01cf1f6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0fc51c0a-2479-c737-1e6a-62566e639511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b2a8048d-f94e-bbd8-1983-69f0e37e97e2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b2a8048d-f94e-bbd8-1983-69f0e37e97e2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83e6976a-451d-c99c-34e7-3cdfff6366fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83e6976a-451d-c99c-34e7-3cdfff6366fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6de811c0-d45c-5911-4d08-e4ba4db5d48f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6de811c0-d45c-5911-4d08-e4ba4db5d48f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f2b9748e-84c4-e6c9-558e-8d82d01cf1f6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f2b9748e-84c4-e6c9-558e-8d82d01cf1f6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0fc51c0a-2479-c737-1e6a-62566e639511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0fc51c0a-2479-c737-1e6a-62566e639511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
