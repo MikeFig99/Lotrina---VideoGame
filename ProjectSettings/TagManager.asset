@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hunter
+  - Dog
+  - limitMap
+  - water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4236723911
+    locked: 0
+  - name: Enviroment
+    uniqueID: 2387030469
+    locked: 0
+  - name: Characters
+    uniqueID: 2808590723
+    locked: 0
+  - name: Water
+    uniqueID: 2256272717
+    locked: 0
+  - name: Ground
+    uniqueID: 1317755985
+    locked: 0
+  - name: Texts
+    uniqueID: 618777865
+    locked: 0
