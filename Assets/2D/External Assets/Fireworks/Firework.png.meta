@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: bec14e4b69b882b47b0ef8f7a254f4a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1914587856571110543
+    second: Firework_0
+  - first:
+      213: -8619187034463149294
+    second: Firework_1
+  - first:
+      213: 414535668942568817
+    second: Firework_2
+  - first:
+      213: 2900316693109333571
+    second: Firework_3
+  - first:
+      213: -6579729328069701984
+    second: Firework_4
+  - first:
+      213: -8513375173697481729
+    second: Firework_5
+  - first:
+      213: 7675917916171254176
+    second: Firework_6
+  - first:
+      213: 7246130469680918303
+    second: Firework_7
+  - first:
+      213: -9207101442811693345
+    second: Firework_8
+  - first:
+      213: 7225432999887072453
+    second: Firework_9
+  - first:
+      213: 6738886806129705839
+    second: Firework_10
+  - first:
+      213: -9172401494976316741
+    second: Firework_11
+  - first:
+      213: -8279851053299242212
+    second: Firework_12
+  - first:
+      213: -6161260634517996778
+    second: Firework_13
+  - first:
+      213: 5145800225584939557
+    second: Firework_14
+  - first:
+      213: -8780958295342808936
+    second: Firework_15
+  - first:
+      213: -3189223998993887233
+    second: Firework_16
+  - first:
+      213: 6845404749725998560
+    second: Firework_17
+  - first:
+      213: -2806218749522863182
+    second: Firework_18
+  - first:
+      213: -6307435275965978432
+    second: Firework_19
+  - first:
+      213: 3521244323098230940
+    second: Firework_20
+  - first:
+      213: 4462845749579138048
+    second: Firework_21
+  - first:
+      213: 6175279015763310396
+    second: Firework_22
+  - first:
+      213: -3613146302988105128
+    second: Firework_23
+  - first:
+      213: 3092993398421777863
+    second: Firework_24
+  - first:
+      213: -1051665554812585852
+    second: Firework_25
+  - first:
+      213: 1431963632503310987
+    second: Firework_26
+  - first:
+      213: 6806263986753041597
+    second: Firework_27
+  - first:
+      213: 5041330427198344519
+    second: Firework_28
+  - first:
+      213: -7778352976420888957
+    second: Firework_29
+  - first:
+      213: -6913895039800854477
+    second: Firework_30
+  - first:
+      213: -3371694687192233671
+    second: Firework_31
+  - first:
+      213: -6655491570255581810
+    second: Firework_32
+  - first:
+      213: 552027083650301790
+    second: Firework_33
+  - first:
+      213: 2539231480224683008
+    second: Firework_34
+  - first:
+      213: -613422851833094327
+    second: Firework_35
+  - first:
+      213: -8536434633541308719
+    second: Firework_36
+  - first:
+      213: 1313698704241455657
+    second: Firework_37
+  - first:
+      213: 842959919548880774
+    second: Firework_38
+  - first:
+      213: 8873072566934293496
+    second: Firework_39
+  - first:
+      213: -6187626159259759275
+    second: Firework_40
+  - first:
+      213: -945307143627941332
+    second: Firework_41
+  - first:
+      213: 6952202037789145466
+    second: Firework_42
+  - first:
+      213: 4771354406243297039
+    second: Firework_43
+  - first:
+      213: 3361847709039701922
+    second: Firework_44
+  - first:
+      213: -2538709774448466730
+    second: Firework_45
+  - first:
+      213: 4527345833049151549
+    second: Firework_46
+  - first:
+      213: -8393661303917060738
+    second: Firework_47
+  - first:
+      213: 7697704948507054981
+    second: Firework_48
+  - first:
+      213: -8293830923432095259
+    second: Firework_49
+  - first:
+      213: -7716281739881319186
+    second: Firework_50
+  - first:
+      213: -974575076765605520
+    second: Firework_51
+  - first:
+      213: 3078086872889785222
+    second: Firework_52
+  - first:
+      213: -2484913825198910538
+    second: Firework_53
+  - first:
+      213: 6419846121199739771
+    second: Firework_54
+  - first:
+      213: -5552289097995045274
+    second: Firework_55
+  - first:
+      213: 191693199467719859
+    second: Firework_56
+  - first:
+      213: 1378375850964666244
+    second: Firework_57
+  - first:
+      213: 3455911762756873718
+    second: Firework_58
+  - first:
+      213: 8197116729023708290
+    second: Firework_59
+  - first:
+      213: 8515488885729827165
+    second: Firework_60
+  - first:
+      213: -2218718628609175623
+    second: Firework_61
+  - first:
+      213: -6324977538907003053
+    second: Firework_62
+  - first:
+      213: -4219044416075630247
+    second: Firework_63
+  - first:
+      213: -4777181916556504101
+    second: Firework_64
+  - first:
+      213: -950992852340115228
+    second: Firework_65
+  - first:
+      213: 4924341562183092944
+    second: Firework_66
+  - first:
+      213: 7524557765820512322
+    second: Firework_67
+  - first:
+      213: 8561992117284851201
+    second: Firework_68
+  - first:
+      213: 3627792658892778032
+    second: Firework_69
+  - first:
+      213: -2757529179898281256
+    second: Firework_70
+  - first:
+      213: -5341232692786213721
+    second: Firework_71
+  - first:
+      213: 952425776688707189
+    second: Firework_72
+  - first:
+      213: -3700926102248150208
+    second: Firework_73
+  - first:
+      213: 809108026885311760
+    second: Firework_74
+  - first:
+      213: -5280198993017520815
+    second: Firework_75
+  - first:
+      213: 1933858819791703382
+    second: Firework_76
+  - first:
+      213: 6785783246685361021
+    second: Firework_77
+  - first:
+      213: -4033884587092474100
+    second: Firework_78
+  - first:
+      213: 4737958780321257112
+    second: Firework_79
+  - first:
+      213: 14211497467043502
+    second: Firework_80
+  - first:
+      213: 2003843691319401793
+    second: Firework_81
+  - first:
+      213: 4036735406400254956
+    second: Firework_82
+  - first:
+      213: 7754444242269407287
+    second: Firework_83
+  - first:
+      213: -5604568481939578246
+    second: Firework_84
+  - first:
+      213: -5018409049752024146
+    second: Firework_85
+  - first:
+      213: -1450202667199549135
+    second: Firework_86
+  - first:
+      213: -4333233587654169928
+    second: Firework_87
+  - first:
+      213: 4415611111317079064
+    second: Firework_88
+  - first:
+      213: 1374772571043100507
+    second: Firework_89
+  - first:
+      213: 1338618126834913352
+    second: Firework_90
+  - first:
+      213: -4810910961038840731
+    second: Firework_91
+  - first:
+      213: 8393036747960118458
+    second: Firework_92
+  - first:
+      213: 3510810793505975914
+    second: Firework_93
+  - first:
+      213: 4895442387457421638
+    second: Firework_94
+  - first:
+      213: 4033102484365658604
+    second: Firework_95
+  - first:
+      213: -369279926415101482
+    second: Firework_96
+  - first:
+      213: 7454906616538171518
+    second: Firework_97
+  - first:
+      213: -7911417166068663924
+    second: Firework_98
+  - first:
+      213: 4106884893266843407
+    second: Firework_99
+  - first:
+      213: 2736525995117274400
+    second: Firework_100
+  - first:
+      213: 7339828193031407503
+    second: Firework_101
+  - first:
+      213: -5975646129997506095
+    second: Firework_102
+  - first:
+      213: 7976259023079140815
+    second: Firework_103
+  - first:
+      213: 2255447805624989227
+    second: Firework_104
+  - first:
+      213: -6939321402789831692
+    second: Firework_105
+  - first:
+      213: -328857010995351385
+    second: Firework_106
+  - first:
+      213: -2761867825851437638
+    second: Firework_107
+  - first:
+      213: -1036089305735901037
+    second: Firework_108
+  - first:
+      213: -4700715485429300138
+    second: Firework_109
+  - first:
+      213: 5895704848785865738
+    second: Firework_110
+  - first:
+      213: -5590713702946707353
+    second: Firework_111
+  - first:
+      213: 4057776086876799848
+    second: Firework_112
+  - first:
+      213: 6195640636291636515
+    second: Firework_113
+  - first:
+      213: 1216904332935007746
+    second: Firework_114
+  - first:
+      213: 5266989848340484373
+    second: Firework_115
+  - first:
+      213: -1097700598848476900
+    second: Firework_116
+  - first:
+      213: -7913823762374308847
+    second: Firework_117
+  - first:
+      213: 681664991566665039
+    second: Firework_118
+  - first:
+      213: -3739249540813467933
+    second: Firework_119
+  - first:
+      213: -6496790882846408715
+    second: Firework_120
+  - first:
+      213: 3787715350829948497
+    second: Firework_121
+  - first:
+      213: 4502755595995667577
+    second: Firework_122
+  - first:
+      213: -6870686785052626306
+    second: Firework_123
+  - first:
+      213: 8429099409586170047
+    second: Firework_124
+  - first:
+      213: -1749608318733373768
+    second: Firework_125
+  - first:
+      213: 4000245399123488605
+    second: Firework_126
+  - first:
+      213: 1558575683759613701
+    second: Firework_127
+  - first:
+      213: 2170885019988279873
+    second: Firework_128
+  - first:
+      213: -5130087933807067346
+    second: Firework_129
+  - first:
+      213: -4357391694546398100
+    second: Firework_130
+  - first:
+      213: -4475134485804079910
+    second: Firework_131
+  - first:
+      213: -9146756585171123793
+    second: Firework_132
+  - first:
+      213: 6759770590814943898
+    second: Firework_133
+  - first:
+      213: 3418977707432490888
+    second: Firework_134
+  - first:
+      213: 6573024655942223646
+    second: Firework_135
+  - first:
+      213: 7848799521857666025
+    second: Firework_136
+  - first:
+      213: -765347457223138680
+    second: Firework_137
+  - first:
+      213: -1592010005536905057
+    second: Firework_138
+  - first:
+      213: 2150599111178389485
+    second: Firework_139
+  - first:
+      213: 1306275577551700613
+    second: Firework_140
+  - first:
+      213: -4662604908961578414
+    second: Firework_141
+  - first:
+      213: -7128518839238717106
+    second: Firework_142
+  - first:
+      213: 231412795665721318
+    second: Firework_143
+  - first:
+      213: 7209042968216533567
+    second: Firework_144
+  - first:
+      213: 7415002171202652685
+    second: Firework_145
+  - first:
+      213: -3891178277420957548
+    second: Firework_146
+  - first:
+      213: -5892572659124065505
+    second: Firework_147
+  - first:
+      213: -427347083706396568
+    second: Firework_148
+  - first:
+      213: -3745001603646777776
+    second: Firework_149
+  - first:
+      213: 4753498863025527643
+    second: Firework_150
+  - first:
+      213: 8786292404921934039
+    second: Firework_151
+  - first:
+      213: 5230287138303981663
+    second: Firework_152
+  - first:
+      213: -7118376309754766182
+    second: Firework_153
+  - first:
+      213: 7600880559711994501
+    second: Firework_154
+  - first:
+      213: 5779146150656539993
+    second: Firework_155
+  - first:
+      213: -515085294640068293
+    second: Firework_156
+  - first:
+      213: -1654975571348976057
+    second: Firework_157
+  - first:
+      213: -8784875056151186868
+    second: Firework_158
+  - first:
+      213: -1404203239021744387
+    second: Firework_159
+  - first:
+      213: -7750158355460802266
+    second: Firework_160
+  - first:
+      213: -7062584026306306608
+    second: Firework_161
+  - first:
+      213: -4005183409940287125
+    second: Firework_162
+  - first:
+      213: 973934215841934970
+    second: Firework_163
+  - first:
+      213: -4151685082825401008
+    second: Firework_164
+  - first:
+      213: -5679518339097294231
+    second: Firework_165
+  - first:
+      213: 6192835424239797117
+    second: Firework_166
+  - first:
+      213: 4839304042210600993
+    second: Firework_167
+  - first:
+      213: 60083586297457844
+    second: Firework_168
+  - first:
+      213: -3612510141122679140
+    second: Firework_169
+  - first:
+      213: 7078897487547842315
+    second: Firework_170
+  - first:
+      213: 209467978613600953
+    second: Firework_171
+  - first:
+      213: -9146496508511853943
+    second: Firework_172
+  - first:
+      213: -7952752881339405468
+    second: Firework_173
+  - first:
+      213: 5090568453945757473
+    second: Firework_174
+  - first:
+      213: -5815112650538802409
+    second: Firework_175
+  - first:
+      213: -6277178622327745928
+    second: Firework_176
+  - first:
+      213: 2619589957743050766
+    second: Firework_177
+  - first:
+      213: 4338013156436981487
+    second: Firework_178
+  - first:
+      213: 8039128696700750168
+    second: Firework_179
+  - first:
+      213: 4700082317890246263
+    second: Firework_180
+  - first:
+      213: 844492661509988358
+    second: Firework_181
+  - first:
+      213: 4567755685196070507
+    second: Firework_182
+  - first:
+      213: 5763493275938170846
+    second: Firework_183
+  - first:
+      213: -3153214710787847167
+    second: Firework_184
+  - first:
+      213: 4336541589898259336
+    second: Firework_185
+  - first:
+      213: -6852815547231696134
+    second: Firework_186
+  - first:
+      213: -1091352003937384485
+    second: Firework_187
+  - first:
+      213: -1678486181476038440
+    second: Firework_188
+  - first:
+      213: -4504485508126377689
+    second: Firework_189
+  - first:
+      213: -563078893727968018
+    second: Firework_190
+  - first:
+      213: 1140358448642318686
+    second: Firework_191
+  - first:
+      213: 2834784876689598701
+    second: Firework_192
+  - first:
+      213: -5480111353623056735
+    second: Firework_193
+  - first:
+      213: -8433547793495359982
+    second: Firework_194
+  - first:
+      213: -4303658307034782742
+    second: Firework_195
+  - first:
+      213: -7867976509216096067
+    second: Firework_196
+  - first:
+      213: 4897968737931645472
+    second: Firework_197
+  - first:
+      213: -8255274049313165869
+    second: Firework_198
+  - first:
+      213: -1191890601633633827
+    second: Firework_199
+  - first:
+      213: -1546356901302495476
+    second: Firework_200
+  - first:
+      213: -494527495322024790
+    second: Firework_201
+  - first:
+      213: 5213979488802759617
+    second: Firework_202
+  - first:
+      213: -7227717755623107125
+    second: Firework_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firework_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84923af28bf19a10800000000000000
+      internalID: 1914587856571110543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213eb2efe0f726880800000000000000
+      internalID: -8619187034463149294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dfc0e9ef9b0c500800000000000000
+      internalID: 414535668942568817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34edae47aaeff3820800000000000000
+      internalID: 2900316693109333571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae8f2a790b10b4a0800000000000000
+      internalID: -6579729328069701984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d124a26a6ad980800000000000000
+      internalID: -8513375173697481729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b17e0da6568a60800000000000000
+      internalID: 7675917916171254176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f2771454d6f8460800000000000000
+      internalID: 7246130469680918303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f832e40ec93080800000000000000
+      internalID: -9207101442811693345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc67aa0805e54460800000000000000
+      internalID: 7225432999887072453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f638de498d5558d50800000000000000
+      internalID: 6738886806129705839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbabca2107515b080800000000000000
+      internalID: -9172401494976316741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b64f6e55f081d80800000000000000
+      internalID: -8279851053299242212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bf4feb81ece7aa0800000000000000
+      internalID: -6161260634517996778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5228d13aa0e896740800000000000000
+      internalID: 5145800225584939557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890829234f4c32680800000000000000
+      internalID: -8780958295342808936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff81de8ba99db3d0800000000000000
+      internalID: -3189223998993887233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed9033f953cffe50800000000000000
+      internalID: 6845404749725998560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb16a05aee4e09d0800000000000000
+      internalID: -2806218749522863182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8a744e80d7778a0800000000000000
+      internalID: -6307435275965978432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9081a53e09fdd030800000000000000
+      internalID: 3521244323098230940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004c60760963fed30800000000000000
+      internalID: 4462845749579138048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37fe7bfb8ff2b550800000000000000
+      internalID: 6175279015763310396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ac0e8a4968bddc0800000000000000
+      internalID: -3613146302988105128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdee85cb158cea20800000000000000
+      internalID: 3092993398421777863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488b1e6ffbbb761f0800000000000000
+      internalID: -1051665554812585852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a43ae365b5fd310800000000000000
+      internalID: 1431963632503310987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4f2f9e805b47e50800000000000000
+      internalID: 6806263986753041597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d868c305766f540800000000000000
+      internalID: 5041330427198344519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e94deed2dbd0490800000000000000
+      internalID: -7778352976420888957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a48fb399ed3509c41be090e80d90faf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Firework_0: 1914587856571110543
+      Firework_1: -8619187034463149294
+      Firework_10: 6738886806129705839
+      Firework_11: -9172401494976316741
+      Firework_12: -8279851053299242212
+      Firework_13: -6161260634517996778
+      Firework_14: 5145800225584939557
+      Firework_15: -8780958295342808936
+      Firework_16: -3189223998993887233
+      Firework_17: 6845404749725998560
+      Firework_18: -2806218749522863182
+      Firework_19: -6307435275965978432
+      Firework_2: 414535668942568817
+      Firework_20: 3521244323098230940
+      Firework_21: 4462845749579138048
+      Firework_22: 6175279015763310396
+      Firework_23: -3613146302988105128
+      Firework_24: 3092993398421777863
+      Firework_25: -1051665554812585852
+      Firework_26: 1431963632503310987
+      Firework_27: 6806263986753041597
+      Firework_28: 5041330427198344519
+      Firework_29: -7778352976420888957
+      Firework_3: 2900316693109333571
+      Firework_4: -6579729328069701984
+      Firework_5: -8513375173697481729
+      Firework_6: 7675917916171254176
+      Firework_7: 7246130469680918303
+      Firework_8: -9207101442811693345
+      Firework_9: 7225432999887072453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

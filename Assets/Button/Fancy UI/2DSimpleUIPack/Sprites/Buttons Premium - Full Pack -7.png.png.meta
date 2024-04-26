@@ -1,0 +1,3128 @@
+fileFormatVersion: 2
+guid: 69c0ab9c877645845840ffd13e4cc583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8425854077723089555
+    second: Buttons Premium - Full Pack -7.png_0
+  - first:
+      213: 4351537258931315316
+    second: Buttons Premium - Full Pack -7.png_1
+  - first:
+      213: 2486816437755439433
+    second: Buttons Premium - Full Pack -7.png_2
+  - first:
+      213: -6767925174017533655
+    second: Buttons Premium - Full Pack -7.png_3
+  - first:
+      213: 6247828374617156641
+    second: Buttons Premium - Full Pack -7.png_4
+  - first:
+      213: -8829764337227289378
+    second: Buttons Premium - Full Pack -7.png_5
+  - first:
+      213: 6348047446900353572
+    second: Buttons Premium - Full Pack -7.png_6
+  - first:
+      213: -2396088863658737060
+    second: Buttons Premium - Full Pack -7.png_7
+  - first:
+      213: -3168871974247436090
+    second: Buttons Premium - Full Pack -7.png_8
+  - first:
+      213: -8807557550972948389
+    second: Buttons Premium - Full Pack -7.png_9
+  - first:
+      213: 3592345746747215166
+    second: Buttons Premium - Full Pack -7.png_10
+  - first:
+      213: 3607315127509910761
+    second: Buttons Premium - Full Pack -7.png_11
+  - first:
+      213: 1493278841121058244
+    second: Buttons Premium - Full Pack -7.png_12
+  - first:
+      213: -8020528812593612379
+    second: Buttons Premium - Full Pack -7.png_13
+  - first:
+      213: 3949539857095225253
+    second: Buttons Premium - Full Pack -7.png_14
+  - first:
+      213: -6110779033050449881
+    second: Buttons Premium - Full Pack -7.png_15
+  - first:
+      213: -5554213821460809598
+    second: Buttons Premium - Full Pack -7.png_16
+  - first:
+      213: -703542564145083795
+    second: Buttons Premium - Full Pack -7.png_17
+  - first:
+      213: -1882391049125899003
+    second: Buttons Premium - Full Pack -7.png_18
+  - first:
+      213: 7352321227704007069
+    second: Buttons Premium - Full Pack -7.png_19
+  - first:
+      213: -8929818280693497436
+    second: Buttons Premium - Full Pack -7.png_20
+  - first:
+      213: 1175176466371033613
+    second: Buttons Premium - Full Pack -7.png_21
+  - first:
+      213: -2558434497668555090
+    second: Buttons Premium - Full Pack -7.png_22
+  - first:
+      213: 1599778636529101534
+    second: Buttons Premium - Full Pack -7.png_23
+  - first:
+      213: -6903394513874408700
+    second: Buttons Premium - Full Pack -7.png_24
+  - first:
+      213: -4088259393908276442
+    second: Buttons Premium - Full Pack -7.png_25
+  - first:
+      213: -7087151908873831895
+    second: Buttons Premium - Full Pack -7.png_26
+  - first:
+      213: 8708747204381651695
+    second: Buttons Premium - Full Pack -7.png_27
+  - first:
+      213: 9195486973835799830
+    second: Buttons Premium - Full Pack -7.png_28
+  - first:
+      213: -3932668328406916239
+    second: Buttons Premium - Full Pack -7.png_29
+  - first:
+      213: 4965374921760108165
+    second: Buttons Premium - Full Pack -7.png_30
+  - first:
+      213: 8255365689178247491
+    second: Buttons Premium - Full Pack -7.png_31
+  - first:
+      213: 2017767352119746619
+    second: Buttons Premium - Full Pack -7.png_32
+  - first:
+      213: 190525854475801148
+    second: Buttons Premium - Full Pack -7.png_33
+  - first:
+      213: 1296523697541835651
+    second: Buttons Premium - Full Pack -7.png_34
+  - first:
+      213: 3787102062389909008
+    second: Buttons Premium - Full Pack -7.png_35
+  - first:
+      213: -4135757684227289215
+    second: Buttons Premium - Full Pack -7.png_36
+  - first:
+      213: 446691089109220930
+    second: Buttons Premium - Full Pack -7.png_37
+  - first:
+      213: 35884544864722724
+    second: Buttons Premium - Full Pack -7.png_38
+  - first:
+      213: -2565515422134563967
+    second: Buttons Premium - Full Pack -7.png_39
+  - first:
+      213: -3051381822848960502
+    second: Buttons Premium - Full Pack -7.png_40
+  - first:
+      213: -2597488045202938801
+    second: Buttons Premium - Full Pack -7.png_41
+  - first:
+      213: 6426446766432037772
+    second: Buttons Premium - Full Pack -7.png_42
+  - first:
+      213: 6436310563093457193
+    second: Buttons Premium - Full Pack -7.png_43
+  - first:
+      213: 1238921242210916112
+    second: Buttons Premium - Full Pack -7.png_44
+  - first:
+      213: -3934015804817089642
+    second: Buttons Premium - Full Pack -7.png_45
+  - first:
+      213: 7704036181803832404
+    second: Buttons Premium - Full Pack -7.png_46
+  - first:
+      213: 7998091753802797493
+    second: Buttons Premium - Full Pack -7.png_47
+  - first:
+      213: -253273384010197280
+    second: Buttons Premium - Full Pack -7.png_48
+  - first:
+      213: -2560464178191391009
+    second: Buttons Premium - Full Pack -7.png_49
+  - first:
+      213: 3728061073739422420
+    second: Buttons Premium - Full Pack -7.png_50
+  - first:
+      213: 4040942011442702562
+    second: Buttons Premium - Full Pack -7.png_51
+  - first:
+      213: -5362855808548247395
+    second: Buttons Premium - Full Pack -7.png_52
+  - first:
+      213: 2333819786361873503
+    second: Buttons Premium - Full Pack -7.png_53
+  - first:
+      213: -6916004861823867606
+    second: Buttons Premium - Full Pack -7.png_54
+  - first:
+      213: 9064270951808725870
+    second: Buttons Premium - Full Pack -7.png_55
+  - first:
+      213: -5670134596481418575
+    second: Buttons Premium - Full Pack -7.png_56
+  - first:
+      213: -680528752276384906
+    second: Buttons Premium - Full Pack -7.png_57
+  - first:
+      213: -4702062796255309270
+    second: Buttons Premium - Full Pack -7.png_58
+  - first:
+      213: -3513350874760085087
+    second: Buttons Premium - Full Pack -7.png_59
+  - first:
+      213: 8462150345013391055
+    second: Buttons Premium - Full Pack -7.png_60
+  - first:
+      213: 8688484681401461492
+    second: Buttons Premium - Full Pack -7.png_61
+  - first:
+      213: -7819029185969027146
+    second: Buttons Premium - Full Pack -7.png_62
+  - first:
+      213: 1865737929594587703
+    second: Buttons Premium - Full Pack -7.png_63
+  - first:
+      213: 5960516051177360309
+    second: Buttons Premium - Full Pack -7.png_64
+  - first:
+      213: -4130937705370419884
+    second: Buttons Premium - Full Pack -7.png_65
+  - first:
+      213: 1831378817827086595
+    second: Buttons Premium - Full Pack -7.png_66
+  - first:
+      213: -4035563274351372329
+    second: Buttons Premium - Full Pack -7.png_67
+  - first:
+      213: 4010916693209157551
+    second: Buttons Premium - Full Pack -7.png_68
+  - first:
+      213: -2470830006395332081
+    second: Buttons Premium - Full Pack -7.png_69
+  - first:
+      213: 7240106477148870538
+    second: Buttons Premium - Full Pack -7.png_70
+  - first:
+      213: 2151489148519714314
+    second: Buttons Premium - Full Pack -7.png_71
+  - first:
+      213: 1478995396560036663
+    second: Buttons Premium - Full Pack -7.png_72
+  - first:
+      213: 706508403690143149
+    second: Buttons Premium - Full Pack -7.png_73
+  - first:
+      213: 4035257406622344613
+    second: Buttons Premium - Full Pack -7.png_74
+  - first:
+      213: 8773663377357228375
+    second: Buttons Premium - Full Pack -7.png_75
+  - first:
+      213: -3061550675787415813
+    second: Buttons Premium - Full Pack -7.png_76
+  - first:
+      213: 7389522553211919357
+    second: Buttons Premium - Full Pack -7.png_77
+  - first:
+      213: 1081502712171624558
+    second: Buttons Premium - Full Pack -7.png_78
+  - first:
+      213: 8132137776729509709
+    second: Buttons Premium - Full Pack -7.png_79
+  - first:
+      213: 4412889184096238495
+    second: Buttons Premium - Full Pack -7.png_80
+  - first:
+      213: -1784157651143099821
+    second: Buttons Premium - Full Pack -7.png_81
+  - first:
+      213: 2423739072649497803
+    second: Buttons Premium - Full Pack -7.png_82
+  - first:
+      213: 7791841893830920676
+    second: Buttons Premium - Full Pack -7.png_83
+  - first:
+      213: -4379592465682557239
+    second: Buttons Premium - Full Pack -7.png_84
+  - first:
+      213: 5817027976021102458
+    second: Buttons Premium - Full Pack -7.png_85
+  - first:
+      213: 5215778905666106622
+    second: Buttons Premium - Full Pack -7.png_86
+  - first:
+      213: 6028458340798240479
+    second: Buttons Premium - Full Pack -7.png_87
+  - first:
+      213: -6688431379556679087
+    second: Buttons Premium - Full Pack -7.png_88
+  - first:
+      213: -2126645117653396210
+    second: Buttons Premium - Full Pack -7.png_89
+  - first:
+      213: 6054378186687929547
+    second: Buttons Premium - Full Pack -7.png_90
+  - first:
+      213: 4650614671815911412
+    second: Buttons Premium - Full Pack -7.png_91
+  - first:
+      213: -4807473221121496471
+    second: Buttons Premium - Full Pack -7.png_92
+  - first:
+      213: 1648283663885986936
+    second: Buttons Premium - Full Pack -7.png_93
+  - first:
+      213: 1237970545237688468
+    second: Buttons Premium - Full Pack -7.png_94
+  - first:
+      213: -6379322972863784437
+    second: Buttons Premium - Full Pack -7.png_95
+  - first:
+      213: -7793078740067739408
+    second: Buttons Premium - Full Pack -7.png_96
+  - first:
+      213: 7761313445689135021
+    second: Buttons Premium - Full Pack -7.png_97
+  - first:
+      213: 6466621107385704747
+    second: Buttons Premium - Full Pack -7.png_98
+  - first:
+      213: 4003014652424902666
+    second: Buttons Premium - Full Pack -7.png_99
+  - first:
+      213: 1460414826294119326
+    second: Buttons Premium - Full Pack -7.png_100
+  - first:
+      213: -6719890599265012573
+    second: Buttons Premium - Full Pack -7.png_101
+  - first:
+      213: 968387087519103130
+    second: Buttons Premium - Full Pack -7.png_102
+  - first:
+      213: 7466805447121614398
+    second: Buttons Premium - Full Pack -7.png_103
+  - first:
+      213: 1901886834927132473
+    second: Buttons Premium - Full Pack -7.png_104
+  - first:
+      213: 3000911159229576080
+    second: Buttons Premium - Full Pack -7.png_105
+  - first:
+      213: -5503762128951765023
+    second: Buttons Premium - Full Pack -7.png_106
+  - first:
+      213: -269769230578469204
+    second: Buttons Premium - Full Pack -7.png_107
+  - first:
+      213: 1764364386888110330
+    second: Buttons Premium - Full Pack -7.png_108
+  - first:
+      213: 535575411356848353
+    second: Buttons Premium - Full Pack -7.png_109
+  - first:
+      213: -4037294067968114650
+    second: Buttons Premium - Full Pack -7.png_110
+  - first:
+      213: -8771769460391055258
+    second: Buttons Premium - Full Pack -7.png_111
+  - first:
+      213: 6238237189659590967
+    second: Buttons Premium - Full Pack -7.png_112
+  - first:
+      213: 2078893378281918486
+    second: Buttons Premium - Full Pack -7.png_113
+  - first:
+      213: -8753698657446056095
+    second: Buttons Premium - Full Pack -7.png_114
+  - first:
+      213: -7269422217195670570
+    second: Buttons Premium - Full Pack -7.png_115
+  - first:
+      213: -1998622058191942989
+    second: Buttons Premium - Full Pack -7.png_116
+  - first:
+      213: -4029871943197122792
+    second: Buttons Premium - Full Pack -7.png_117
+  - first:
+      213: 4283600219167022484
+    second: Buttons Premium - Full Pack -7.png_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a16ff34a5aee470800000000000000
+      internalID: 8425854077723089555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4726a71e414c36c30800000000000000
+      internalID: 4351537258931315316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e30adf52f28220800000000000000
+      internalID: 2486816437755439433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929d24889ef7312a0800000000000000
+      internalID: -6767925174017533655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c69a6edceb4b650800000000000000
+      internalID: 6247828374617156641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edca72d0e10667580800000000000000
+      internalID: -8829764337227289378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a22d1058bc81850800000000000000
+      internalID: 6348047446900353572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c520a5f9fd16fbed0800000000000000
+      internalID: -2396088863658737060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c07a449ab7e504d0800000000000000
+      internalID: -3168871974247436090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b273621545c580800000000000000
+      internalID: -8807557550972948389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc0417c639ad130800000000000000
+      internalID: 3592345746747215166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e40f100ff1cf0230800000000000000
+      internalID: 3607315127509910761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cda0abb13139b410800000000000000
+      internalID: 1493278841121058244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9729e1a8b51b090800000000000000
+      internalID: -8020528812593612379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af686013959fc630800000000000000
+      internalID: 3949539857095225253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7287f1288d6223ba0800000000000000
+      internalID: -6110779033050449881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2887345f4f77be2b0800000000000000
+      internalID: -5554213821460809598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac3c3f3c38c36f0800000000000000
+      internalID: -703542564145083795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505d97c605760e5e0800000000000000
+      internalID: -1882391049125899003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d997cdbc331b80660800000000000000
+      internalID: 7352321227704007069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1897ef599e21480800000000000000
+      internalID: -8929818280693497436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 206
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab17215c01f4010800000000000000
+      internalID: 1175176466371033613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 190
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae5c59216d9e7cd0800000000000000
+      internalID: -2558434497668555090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 190
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda6395a13e833610800000000000000
+      internalID: 1599778636529101534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 188
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba220f3473230a0800000000000000
+      internalID: -6903394513874408700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6238174edb59347c0800000000000000
+      internalID: -4088259393908276442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 188
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af75263e065ad90800000000000000
+      internalID: -7087151908873831895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 189
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe238d3017fabd870800000000000000
+      internalID: 8708747204381651695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 189
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de634deaeec9f70800000000000000
+      internalID: 9195486973835799830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 189
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17360e1ddfa5c69c0800000000000000
+      internalID: -3932668328406916239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 189
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee4240f2e88e440800000000000000
+      internalID: 4965374921760108165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 164
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341da620b53f09270800000000000000
+      internalID: 8255365689178247491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b306a7657bc800c10800000000000000
+      internalID: 2017767352119746619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 139
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32de845142e4a200800000000000000
+      internalID: 190525854475801148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 164
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b6bd20f6d2ef110800000000000000
+      internalID: 1296523697541835651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 165
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01656e4c24d7e8430800000000000000
+      internalID: 3787102062389909008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 164
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f4a826c46da96c0800000000000000
+      internalID: -4135757684227289215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 167
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24effaacd27f23600800000000000000
+      internalID: 446691089109220930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 167
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f969dadcc7f7000800000000000000
+      internalID: 35884544864722724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 167
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b02e5f055756cd0800000000000000
+      internalID: -2565515422134563967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 140
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f007266057a5d0800000000000000
+      internalID: -3051381822848960502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_41
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 164
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ea5d826ed3fbd0800000000000000
+      internalID: -2597488045202938801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 163
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba32909435f2950800000000000000
+      internalID: 6426446766432037772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_43
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a7492b5e525950800000000000000
+      internalID: 6436310563093457193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 164
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017daa24e48813110800000000000000
+      internalID: 1238921242210916112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bda1508719769c0800000000000000
+      internalID: -3934015804817089642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 142
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4549c21f61c3aea60800000000000000
+      internalID: 7704036181803832404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 139
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1956a031eeefe60800000000000000
+      internalID: 7998091753802797493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 139
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d20bf2313c7cf0800000000000000
+      internalID: -253273384010197280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd62ac65567677cd0800000000000000
+      internalID: -2560464178191391009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 139
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da13316bcbbcb330800000000000000
+      internalID: 3728061073739422420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 140
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8aefd795f441830800000000000000
+      internalID: 4040942011442702562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9867d54e0f4395b0800000000000000
+      internalID: -5362855808548247395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54a0e70bb4636020800000000000000
+      internalID: 2333819786361873503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 140
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a252d12883a6500a0800000000000000
+      internalID: -6916004861823867606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 140
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e637376f762cacd70800000000000000
+      internalID: 9064270951808725870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 89
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba721c40a2af41b0800000000000000
+      internalID: -5670134596481418575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673502594b64e86f0800000000000000
+      internalID: -680528752276384906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a225f95accaeebeb0800000000000000
+      internalID: -4702062796255309270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a10e927ef11e3fc0800000000000000
+      internalID: -3513350874760085087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 115
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee87687e89f6570800000000000000
+      internalID: 8462150345013391055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_61
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 114
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6b5fb8c2b39870800000000000000
+      internalID: 8688484681401461492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 115
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b787e1e16a3d7390800000000000000
+      internalID: -7819029185969027146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 114
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a457903ce64e910800000000000000
+      internalID: 1865737929594587703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 112
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc074b4c108b250800000000000000
+      internalID: 5960516051177360309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_65
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45df02a2b06fba6c0800000000000000
+      internalID: -4130937705370419884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 89
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30122cde45d5a6910800000000000000
+      internalID: 1831378817827086595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d79ca3559ccef7c0800000000000000
+      internalID: -4035563274351372329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf8a625b73a9a730800000000000000
+      internalID: 4010916693209157551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a1e604339d5bdd0800000000000000
+      internalID: -2470830006395332081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8796723b760a7460800000000000000
+      internalID: 7240106477148870538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 88
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e00a34bff9bdd10800000000000000
+      internalID: 2151489148519714314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_72
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73326642a72768410800000000000000
+      internalID: 1478995396560036663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 88
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad77c066a50ec900800000000000000
+      internalID: 706508403690143149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52dfa4b3d100830800000000000000
+      internalID: 4035257406622344613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594b3a5b5052c970800000000000000
+      internalID: 8773663377357228375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_76
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe75d391ef2385d0800000000000000
+      internalID: -3061550675787415813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1feb5c9bdc8660800000000000000
+      internalID: 7389522553211919357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e687c969cf4420f00800000000000000
+      internalID: 1081502712171624558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f4f76d8382bd070800000000000000
+      internalID: 8132137776729509709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b383b155bbd3d30800000000000000
+      internalID: 4412889184096238495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35af154b1166d37e0800000000000000
+      internalID: -1784157651143099821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc028558d9d2a120800000000000000
+      internalID: 2423739072649497803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e98cc36bee222c60800000000000000
+      internalID: 7791841893830920676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_84
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 63
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c693064bdf8833c0800000000000000
+      internalID: -4379592465682557239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f4f3fcf1c3ab050800000000000000
+      internalID: 5817027976021102458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_86
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 64
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef43433c74b226840800000000000000
+      internalID: 5215778905666106622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 39
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6158abbe269a350800000000000000
+      internalID: 6028458340798240479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152c2fcd81bed23a0800000000000000
+      internalID: -6688431379556679087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_89
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 38
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0553fe6883ac72e0800000000000000
+      internalID: -2126645117653396210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_90
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 42
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc586122e8750450800000000000000
+      internalID: 6054378186687929547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_91
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7aecc676d4a8040800000000000000
+      internalID: 4650614671815911412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_92
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 38
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa9d3939c684db0800000000000000
+      internalID: -4807473221121496471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 40
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce0036241efd610800000000000000
+      internalID: 1648283663885986936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_94
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 40
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4900a4fd6a72e2110800000000000000
+      internalID: 1237970545237688468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_95
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a17f62e871877a0800000000000000
+      internalID: -6379322972863784437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_96
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f81d97ec2c69d390800000000000000
+      internalID: -7793078740067739408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_97
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 38
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf83c82579b5bb60800000000000000
+      internalID: 7761313445689135021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_98
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 38
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21a4c2b2ad0eb950800000000000000
+      internalID: 6466621107385704747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0858741e909d8730800000000000000
+      internalID: 4003014652424902666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b89f10c8f644410800000000000000
+      internalID: 1460414826294119326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_101
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4725d7a172eb2a0800000000000000
+      internalID: -6719890599265012573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_102
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98b6a4ece6607d00800000000000000
+      internalID: 968387087519103130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 14
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36b2aa4efb6f9760800000000000000
+      internalID: 7466805447121614398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_104
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 14
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fd2deeffbd46a10800000000000000
+      internalID: 1901886834927132473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_105
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 14
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0937260ccc065a920800000000000000
+      internalID: 3000911159229576080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_106
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7159ff085be93b0800000000000000
+      internalID: -5503762128951765023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_107
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca63a086056914cf0800000000000000
+      internalID: -269769230578469204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0d0d6df084c7810800000000000000
+      internalID: 1764364386888110330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0db50cffebe6700800000000000000
+      internalID: 535575411356848353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62008f88f66a8f7c0800000000000000
+      internalID: -4037294067968114650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 15
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66075cd862a644680800000000000000
+      internalID: -8771769460391055258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_112
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 15
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7318a422caba29650800000000000000
+      internalID: 6238237189659590967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_113
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 15
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d76a5386b9dc10800000000000000
+      internalID: 2078893378281918486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_114
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 15
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2d1c337d948680800000000000000
+      internalID: -8753698657446056095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d338bd2203dd1b90800000000000000
+      internalID: -7269422217195670570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_116
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba8535c3d77344e0800000000000000
+      internalID: -1998622058191942989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1c6f91d40318c0800000000000000
+      internalID: -4029871943197122792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons Premium - Full Pack -7.png_118
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d5c3f24b7627b30800000000000000
+      internalID: 4283600219167022484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Buttons Premium - Full Pack -7.png_0: 8425854077723089555
+      Buttons Premium - Full Pack -7.png_1: 4351537258931315316
+      Buttons Premium - Full Pack -7.png_10: 3592345746747215166
+      Buttons Premium - Full Pack -7.png_100: 1460414826294119326
+      Buttons Premium - Full Pack -7.png_101: -6719890599265012573
+      Buttons Premium - Full Pack -7.png_102: 968387087519103130
+      Buttons Premium - Full Pack -7.png_103: 7466805447121614398
+      Buttons Premium - Full Pack -7.png_104: 1901886834927132473
+      Buttons Premium - Full Pack -7.png_105: 3000911159229576080
+      Buttons Premium - Full Pack -7.png_106: -5503762128951765023
+      Buttons Premium - Full Pack -7.png_107: -269769230578469204
+      Buttons Premium - Full Pack -7.png_108: 1764364386888110330
+      Buttons Premium - Full Pack -7.png_109: 535575411356848353
+      Buttons Premium - Full Pack -7.png_11: 3607315127509910761
+      Buttons Premium - Full Pack -7.png_110: -4037294067968114650
+      Buttons Premium - Full Pack -7.png_111: -8771769460391055258
+      Buttons Premium - Full Pack -7.png_112: 6238237189659590967
+      Buttons Premium - Full Pack -7.png_113: 2078893378281918486
+      Buttons Premium - Full Pack -7.png_114: -8753698657446056095
+      Buttons Premium - Full Pack -7.png_115: -7269422217195670570
+      Buttons Premium - Full Pack -7.png_116: -1998622058191942989
+      Buttons Premium - Full Pack -7.png_117: -4029871943197122792
+      Buttons Premium - Full Pack -7.png_118: 4283600219167022484
+      Buttons Premium - Full Pack -7.png_12: 1493278841121058244
+      Buttons Premium - Full Pack -7.png_13: -8020528812593612379
+      Buttons Premium - Full Pack -7.png_14: 3949539857095225253
+      Buttons Premium - Full Pack -7.png_15: -6110779033050449881
+      Buttons Premium - Full Pack -7.png_16: -5554213821460809598
+      Buttons Premium - Full Pack -7.png_17: -703542564145083795
+      Buttons Premium - Full Pack -7.png_18: -1882391049125899003
+      Buttons Premium - Full Pack -7.png_19: 7352321227704007069
+      Buttons Premium - Full Pack -7.png_2: 2486816437755439433
+      Buttons Premium - Full Pack -7.png_20: -8929818280693497436
+      Buttons Premium - Full Pack -7.png_21: 1175176466371033613
+      Buttons Premium - Full Pack -7.png_22: -2558434497668555090
+      Buttons Premium - Full Pack -7.png_23: 1599778636529101534
+      Buttons Premium - Full Pack -7.png_24: -6903394513874408700
+      Buttons Premium - Full Pack -7.png_25: -4088259393908276442
+      Buttons Premium - Full Pack -7.png_26: -7087151908873831895
+      Buttons Premium - Full Pack -7.png_27: 8708747204381651695
+      Buttons Premium - Full Pack -7.png_28: 9195486973835799830
+      Buttons Premium - Full Pack -7.png_29: -3932668328406916239
+      Buttons Premium - Full Pack -7.png_3: -6767925174017533655
+      Buttons Premium - Full Pack -7.png_30: 4965374921760108165
+      Buttons Premium - Full Pack -7.png_31: 8255365689178247491
+      Buttons Premium - Full Pack -7.png_32: 2017767352119746619
+      Buttons Premium - Full Pack -7.png_33: 190525854475801148
+      Buttons Premium - Full Pack -7.png_34: 1296523697541835651
+      Buttons Premium - Full Pack -7.png_35: 3787102062389909008
+      Buttons Premium - Full Pack -7.png_36: -4135757684227289215
+      Buttons Premium - Full Pack -7.png_37: 446691089109220930
+      Buttons Premium - Full Pack -7.png_38: 35884544864722724
+      Buttons Premium - Full Pack -7.png_39: -2565515422134563967
+      Buttons Premium - Full Pack -7.png_4: 6247828374617156641
+      Buttons Premium - Full Pack -7.png_40: -3051381822848960502
+      Buttons Premium - Full Pack -7.png_41: -2597488045202938801
+      Buttons Premium - Full Pack -7.png_42: 6426446766432037772
+      Buttons Premium - Full Pack -7.png_43: 6436310563093457193
+      Buttons Premium - Full Pack -7.png_44: 1238921242210916112
+      Buttons Premium - Full Pack -7.png_45: -3934015804817089642
+      Buttons Premium - Full Pack -7.png_46: 7704036181803832404
+      Buttons Premium - Full Pack -7.png_47: 7998091753802797493
+      Buttons Premium - Full Pack -7.png_48: -253273384010197280
+      Buttons Premium - Full Pack -7.png_49: -2560464178191391009
+      Buttons Premium - Full Pack -7.png_5: -8829764337227289378
+      Buttons Premium - Full Pack -7.png_50: 3728061073739422420
+      Buttons Premium - Full Pack -7.png_51: 4040942011442702562
+      Buttons Premium - Full Pack -7.png_52: -5362855808548247395
+      Buttons Premium - Full Pack -7.png_53: 2333819786361873503
+      Buttons Premium - Full Pack -7.png_54: -6916004861823867606
+      Buttons Premium - Full Pack -7.png_55: 9064270951808725870
+      Buttons Premium - Full Pack -7.png_56: -5670134596481418575
+      Buttons Premium - Full Pack -7.png_57: -680528752276384906
+      Buttons Premium - Full Pack -7.png_58: -4702062796255309270
+      Buttons Premium - Full Pack -7.png_59: -3513350874760085087
+      Buttons Premium - Full Pack -7.png_6: 6348047446900353572
+      Buttons Premium - Full Pack -7.png_60: 8462150345013391055
+      Buttons Premium - Full Pack -7.png_61: 8688484681401461492
+      Buttons Premium - Full Pack -7.png_62: -7819029185969027146
+      Buttons Premium - Full Pack -7.png_63: 1865737929594587703
+      Buttons Premium - Full Pack -7.png_64: 5960516051177360309
+      Buttons Premium - Full Pack -7.png_65: -4130937705370419884
+      Buttons Premium - Full Pack -7.png_66: 1831378817827086595
+      Buttons Premium - Full Pack -7.png_67: -4035563274351372329
+      Buttons Premium - Full Pack -7.png_68: 4010916693209157551
+      Buttons Premium - Full Pack -7.png_69: -2470830006395332081
+      Buttons Premium - Full Pack -7.png_7: -2396088863658737060
+      Buttons Premium - Full Pack -7.png_70: 7240106477148870538
+      Buttons Premium - Full Pack -7.png_71: 2151489148519714314
+      Buttons Premium - Full Pack -7.png_72: 1478995396560036663
+      Buttons Premium - Full Pack -7.png_73: 706508403690143149
+      Buttons Premium - Full Pack -7.png_74: 4035257406622344613
+      Buttons Premium - Full Pack -7.png_75: 8773663377357228375
+      Buttons Premium - Full Pack -7.png_76: -3061550675787415813
+      Buttons Premium - Full Pack -7.png_77: 7389522553211919357
+      Buttons Premium - Full Pack -7.png_78: 1081502712171624558
+      Buttons Premium - Full Pack -7.png_79: 8132137776729509709
+      Buttons Premium - Full Pack -7.png_8: -3168871974247436090
+      Buttons Premium - Full Pack -7.png_80: 4412889184096238495
+      Buttons Premium - Full Pack -7.png_81: -1784157651143099821
+      Buttons Premium - Full Pack -7.png_82: 2423739072649497803
+      Buttons Premium - Full Pack -7.png_83: 7791841893830920676
+      Buttons Premium - Full Pack -7.png_84: -4379592465682557239
+      Buttons Premium - Full Pack -7.png_85: 5817027976021102458
+      Buttons Premium - Full Pack -7.png_86: 5215778905666106622
+      Buttons Premium - Full Pack -7.png_87: 6028458340798240479
+      Buttons Premium - Full Pack -7.png_88: -6688431379556679087
+      Buttons Premium - Full Pack -7.png_89: -2126645117653396210
+      Buttons Premium - Full Pack -7.png_9: -8807557550972948389
+      Buttons Premium - Full Pack -7.png_90: 6054378186687929547
+      Buttons Premium - Full Pack -7.png_91: 4650614671815911412
+      Buttons Premium - Full Pack -7.png_92: -4807473221121496471
+      Buttons Premium - Full Pack -7.png_93: 1648283663885986936
+      Buttons Premium - Full Pack -7.png_94: 1237970545237688468
+      Buttons Premium - Full Pack -7.png_95: -6379322972863784437
+      Buttons Premium - Full Pack -7.png_96: -7793078740067739408
+      Buttons Premium - Full Pack -7.png_97: 7761313445689135021
+      Buttons Premium - Full Pack -7.png_98: 6466621107385704747
+      Buttons Premium - Full Pack -7.png_99: 4003014652424902666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
